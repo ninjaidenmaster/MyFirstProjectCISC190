@@ -24,5 +24,5 @@ Total Price: $400.0
 ## Author
 Aiden Riodique
 
-"Edit added by Alex Lam"
-Added period on line 9\
+"Edit added by Alex Lam"\
+Added period on line 9
