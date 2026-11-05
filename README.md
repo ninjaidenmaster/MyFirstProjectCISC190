@@ -10,18 +10,18 @@ Some code from a past project. I think it was the receipt one.
 
 ## Example Output
 ```text
-Item Name: Book\
-Price: $100\
-Quantity: 4\
+Item Name: Book
+Price: $100
+Quantity: 4
 Receipt Saved!
 ```
 
 ## Example Output (File)
 ```text
-=== Purchase Details ===\
-Item: Book\
-Price: $100.0\
-Quantity: 4\
+=== Purchase Details ===
+Item: Book
+Price: $100.0
+Quantity: 4
 Total Price: $400.0
 ```
 
