@@ -9,17 +9,17 @@ Some code from a past project. I think it was the receipt one.
 4. Code will finish and the receipt will be on another file called "receipt.txt"
 
 ## Example Output
-Item Name: Book
-Price: $100
-Quantity: 4
-Receipt Saved!
+Item Name: Book\
+Price: $100\
+Quantity: 4\
+Receipt Saved!\
 
 ## Example Output (File)
-=== Purchase Details ===
-Item: Book
-Price: $100.0
-Quantity: 4
-Total Price: $400.0
+=== Purchase Details ===\
+Item: Book\
+Price: $100.0\
+Quantity: 4\
+Total Price: $400.0\
 
 ## Author
 Aiden Riodique
