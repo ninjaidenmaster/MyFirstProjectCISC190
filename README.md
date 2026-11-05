@@ -26,3 +26,6 @@ Aiden Riodique
 
 "Edit added by Alex Lam"\
 Added period on line 9
+
+## Collaboration Acknowledgment
+This project was reviewed and edited by Alex Lam on GitHub
