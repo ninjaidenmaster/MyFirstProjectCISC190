@@ -9,20 +9,25 @@ Some code from a past project. I think it was the receipt one.
 4. Code will finish and the receipt will be on another file called "receipt.txt"
 
 ## Example Output
+```text
 Item Name: Book\
 Price: $100\
 Quantity: 4\
 Receipt Saved!
+```
 
 ## Example Output (File)
+```text
 === Purchase Details ===\
 Item: Book\
 Price: $100.0\
 Quantity: 4\
 Total Price: $400.0
+```
 
 ## Starter Code
-```import java.io.FileWriter;
+```java
+import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Scanner;
 
